@@ -1,0 +1,3 @@
+Desafio do GITHUB
+1- criar um Repositorio
+2-ir ao git da maquina e inserir o comando git clone + link do repositório
